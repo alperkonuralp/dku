@@ -67,7 +67,7 @@ No matter how modern our languages, no matter which cloud providers we trust wit
 
 ## Infographic
 
-<a href="infografik.png" target="_blank" rel="noopener noreferrer">![Lessons from the Cloudflare Outage: System Resilience and Architecture Strategies](infografik.webp)</a>
+<a href="infografik.webp" target="_blank" rel="noopener noreferrer">![Lessons from the Cloudflare Outage: System Resilience and Architecture Strategies](infografik.webp)</a>
 
 ## Audio Summaries
 
