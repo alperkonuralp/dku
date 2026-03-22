@@ -2,5 +2,5 @@ public/
 resources/
 .hugo_build.lock
 
-content/tr/posts/**/*.m4a
-content/tr/posts/**/*.png
+content/**/posts/**/*.m4a
+content/**/posts/**/*.png
