@@ -9,12 +9,20 @@ translationKey = "about-tr"
 
 ### Alper Konuralp
 
-Doğuş Teknoloji'de Solution Architect olarak görev yapan Alper, yazılım mimarisi, kurumsal sistemler ve modern geliştirme pratikleri üzerine derin bir birikime sahiptir.
+*Business Solutions Master Expert, Doğuş Teknoloji*
+
+Yazılım mimarisi, kurumsal sistemler ve modern geliştirme pratikleri üzerine derin bir birikime sahip olan Alper, 90'lı yıllardan bu yana yazılım dünyasında aktif olarak yer almaktadır.
+
+[YouTube (@AlperKonuralp)](https://www.youtube.com/@AlperKonuralp) · [LinkedIn](https://www.linkedin.com/in/alperkonuralp) · [X/Twitter](https://x.com/alperkonuralp) · [Bluesky](https://bsky.app/profile/alperkonuralp.bsky.social) · [TikTok (@alper.konuralp)](https://www.tiktok.com/@alper.konuralp)
 
 ### Burak Selim Şenyurt
 
+*Software Development Expert, Doğuş Teknoloji*
+
 Deneyimli bir yazılım geliştiricisi olan Burak, programlama dilleri, sistem tasarımı ve yazılım mühendisliğinin felsefi boyutları hakkında tutkuyla yazmakta ve konuşmaktadır.
+
+[YouTube (@burakselimsenyurt)](https://www.youtube.com/@burakselimsenyurt)
 
 ---
 
-Podcast'i **YouTube** kanalımızda takip edebilirsiniz: [youtube.com/@intechnow](https://www.youtube.com/@intechnow)
+Tüm bölümlere **DKU Oynatma Listesi** üzerinden ulaşabilirsiniz: [DKU Oynatma Listesi](https://www.youtube.com/watch?v=NVrLpP61lqA&list=PLTzpV7jb-qW-YKnOPQ6Yjd8kF-SAQWa-V)
