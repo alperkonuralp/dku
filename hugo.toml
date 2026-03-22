@@ -38,7 +38,7 @@ defaultContentLanguage = "tr"
   [params.social]
     youtube = "https://www.youtube.com/watch?v=NVrLpP61lqA&list=PLTzpV7jb-qW-YKnOPQ6Yjd8kF-SAQWa-V"
     linkedin = "https://www.linkedin.com/in/alperkonuralp"
-    twitter = "intechnow"
+    twitter = "alperkonuralp"
 
   # [params.avatar]
   #   assetPath = "images/logo.png"  # Logo eklenince aktif et
