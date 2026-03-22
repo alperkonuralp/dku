@@ -1,0 +1,87 @@
+# Alert/Admonition çevirileri
+note = "Not"
+tip = "İpucu"
+important = "Önemli"
+warning = "Uyarı"
+caution = "Dikkat"
+info = "Bilgi"
+success = "Başarı"
+question = "Soru"
+danger = "Tehlike"
+bug = "Hata"
+example = "Örnek"
+
+# Başlık & gezinme
+menu = "Menü"
+search = "Ara"
+searchPlaceholder = "Ara..."
+clearSearch = "Aramayı temizle"
+closeSearch = "Aramayı kapat"
+toggleMenu = "Menüyü aç/kapat"
+closeMenu = "Menüyü kapat"
+toggleTheme = "Temayı değiştir"
+language = "Dil"
+
+# Erişilebilirlik
+skipToMain = "Ana içeriğe geç"
+scrollToTop = "Sayfanın başına dön"
+
+# Ana sayfa
+home = "Ana Sayfa"
+recentPosts = "Son Bölümler"
+
+# Liste & filtreler
+posts = "Bölümler"
+filters = "Filtreler"
+searchTags = "Etiket ara..."
+tagsLabel = "Etiketler"
+yearMonth = "Yıl & Ay"
+allDates = "Tüm Tarihler"
+clearFilters = "Filtreleri Temizle"
+
+# Sayfalama
+pageOf = "Sayfa %s / %s"
+postSingular = "bölüm"
+postPlural = "bölüm"
+pageSingular = "sayfa"
+pagePlural = "sayfa"
+postsOnThisPage = "bu sayfada"
+paginationFirst = "İlk"
+paginationPrev = "Önceki"
+paginationNext = "Sonraki"
+paginationLast = "Son"
+
+# Gezinme linkleri
+backToHome = "Ana Sayfaya Dön"
+allTags = "Tüm Etiketler"
+readMore = "Devamını oku"
+
+# Arşiv
+archive = "Arşiv"
+
+# Tekil bölüm
+relatedPosts = "İlgili Bölümler"
+tags = "Etiketler"
+navPrev = "Önceki"
+navNext = "Sonraki"
+
+# Gönderi meta
+wordCount = "kelime"
+readingTime = "dk"
+
+# İçindekiler
+tableOfContents = "İçindekiler"
+toggleToc = "İçindekileri aç/kapat"
+
+# Etiketler sayfası
+tagsHelp = "İlgili bölümleri görmek için bir etikete tıklayın"
+searchNoResults = "Sonuç bulunamadı"
+searchNoTagsFound = "Etiket bulunamadı"
+
+# Buy Me a Coffee
+buyMeACoffeeDescription = "Bizi destekle!"
+
+# 404 sayfası
+404Title = "Bu Sayfa Mevcut Değil"
+404DefaultMessage = "Aradığınız sayfa bulunamadı."
+404ReturnHome = "Ana sayfaya dön"
