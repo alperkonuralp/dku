@@ -67,7 +67,7 @@ En modern dilleri kullansak da, sistemlerimizi en iyi bulut sağlayıcılarına 
 
 ## İnfografik
 
-<a href="infografik.png" target="_blank" rel="noopener noreferrer">![Cloudflare Çöküşünden Dersler: Sistem Dayanıklılığı ve Mimari Stratejiler](infografik.webp)</a>
+<a href="infografik.webp" target="_blank" rel="noopener noreferrer">![Cloudflare Çöküşünden Dersler: Sistem Dayanıklılığı ve Mimari Stratejiler](infografik.webp)</a>
 
 ## Sesli Özetler
 
