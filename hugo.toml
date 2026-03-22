@@ -36,6 +36,7 @@ defaultContentLanguage = "tr"
   relatedPostsCount = 3
 
   [params.social]
+    youtube = "https://www.youtube.com/watch?v=NVrLpP61lqA&list=PLTzpV7jb-qW-YKnOPQ6Yjd8kF-SAQWa-V"
     linkedin = "https://www.linkedin.com/in/alperkonuralp"
     twitter = "intechnow"
 
@@ -67,7 +68,7 @@ defaultContentLanguage = "tr"
     heroTitleLine1 = "Dinozorlarla"
     heroTitleLine2 = "Kafa Ütüleme"
     custom404Message = "Aradığınız sayfa bulunamadı."
-    footerText = "YouTube'da izle: youtube.com/@intechnow · Hugo ve Mana teması ile yapıldı"
+    footerText = '<a href="https://www.youtube.com/watch?v=NVrLpP61lqA&amp;list=PLTzpV7jb-qW-YKnOPQ6Yjd8kF-SAQWa-V" target="_blank" rel="noopener noreferrer">DKU Oynatma Listesi</a> · <a href="https://www.youtube.com/@AlperKonuralp" target="_blank" rel="noopener noreferrer">Alper Konuralp</a> · <a href="https://www.youtube.com/@burakselimsenyurt" target="_blank" rel="noopener noreferrer">Burak Selim Şenyurt</a>'
 
   [[languages.tr.menus.main]]
     name = "Ana Sayfa"
@@ -103,7 +104,7 @@ defaultContentLanguage = "tr"
     heroTitleLine1 = "Dinozorlarla"
     heroTitleLine2 = "Kafa Ütüleme"
     custom404Message = "Sorry, the page you are looking for could not be found."
-    footerText = "Watch on YouTube: youtube.com/@intechnow · Built with Hugo and Mana theme"
+    footerText = '<a href="https://www.youtube.com/watch?v=NVrLpP61lqA&amp;list=PLTzpV7jb-qW-YKnOPQ6Yjd8kF-SAQWa-V" target="_blank" rel="noopener noreferrer">DKU Playlist</a> · <a href="https://www.youtube.com/@AlperKonuralp" target="_blank" rel="noopener noreferrer">Alper Konuralp</a> · <a href="https://www.youtube.com/@burakselimsenyurt" target="_blank" rel="noopener noreferrer">Burak Selim Şenyurt</a>'
 
   [[languages.en.menus.main]]
     name = "Home"
