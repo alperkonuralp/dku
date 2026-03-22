@@ -67,15 +67,15 @@ En modern dilleri kullansak da, sistemlerimizi en iyi bulut sağlayıcılarına 
 
 ## İnfografik
 
-<a href="infografik.png" target="_blank" rel="noopener noreferrer">![Cloudflare Çöküşünden Dersler: Sistem Dayanıklılığı ve Mimari Stratejiler](infografik.png)</a>
+<a href="infografik.png" target="_blank" rel="noopener noreferrer">![Cloudflare Çöküşünden Dersler: Sistem Dayanıklılığı ve Mimari Stratejiler](infografik.webp)</a>
 
 ## Sesli Özetler
 
 ### Kısa Özet
-{{< audio src="https://media.dinazorlarlakafautuleme.com/bolum-001/audio-brief.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-001/audio-brief.m4a" >}}
 
 ### Derin Dalış
-{{< audio src="https://media.dinazorlarlakafautuleme.com/bolum-001/audio-deepdive.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-001/audio-deepdive.m4a" >}}
 
 ---
 
