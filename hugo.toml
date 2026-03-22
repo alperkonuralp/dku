@@ -45,8 +45,13 @@ defaultContentLanguage = "tr"
 
   [params.favicons]
     ico = "/favicon/favicon.ico"
+    png = "/favicon/favicon.png"
+    png16 = "/favicon/favicon-16x16.png"
     png32 = "/favicon/favicon-32x32.png"
     apple180 = "/favicon/apple-touch-icon.png"
+    android192 = "/favicon/android-chrome-192x192.png"
+    android512 = "/favicon/android-chrome-512x512.png"
+    manifest = "/favicon/site.webmanifest"
 
   [params.codeHighlight]
     darkTheme = "catppuccin-macchiato"
