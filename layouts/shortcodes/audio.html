@@ -1,11 +1,4 @@
 {{ $src := .Get "src" }}
-{{ $resource := .Page.Resources.GetMatch $src }}
-{{ if $resource }}
 <audio controls preload="metadata" style="width:100%">
-  <source src="{{ $resource.RelPermalink }}" type="{{ $resource.MediaType }}">
+  <source src="{{ $src }}">
 </audio>
-{{ else }}
-<audio controls preload="metadata" style="width:100%">
-  <source src="{{ $src }}" type="audio/mp4">
-</audio>
-{{ end }}

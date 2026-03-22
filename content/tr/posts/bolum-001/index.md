@@ -72,10 +72,10 @@ En modern dilleri kullansak da, sistemlerimizi en iyi bulut sağlayıcılarına 
 ## Sesli Özetler
 
 ### Kısa Özet
-{{< audio src="audio-brief.m4a" >}}
+{{< audio src="https://media.dinazorlarlakafautuleme.com/bolum-001/audio-brief.m4a" >}}
 
 ### Derin Dalış
-{{< audio src="audio-deepdive.m4a" >}}
+{{< audio src="https://media.dinazorlarlakafautuleme.com/bolum-001/audio-deepdive.m4a" >}}
 
 ---
 
