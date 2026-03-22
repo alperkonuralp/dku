@@ -40,8 +40,13 @@ defaultContentLanguage = "tr"
     linkedin = "https://www.linkedin.com/in/alperkonuralp"
     twitter = "alperkonuralp"
 
-  # [params.avatar]
-  #   assetPath = "images/logo.png"  # Logo eklenince aktif et
+  [params.avatar]
+    assetPath = "images/logo.png"
+
+  [params.favicons]
+    ico = "/favicon/favicon.ico"
+    png32 = "/favicon/favicon-32x32.png"
+    apple180 = "/favicon/apple-touch-icon.png"
 
   [params.codeHighlight]
     darkTheme = "catppuccin-macchiato"
