@@ -41,7 +41,8 @@ defaultContentLanguage = "tr"
     twitter = "alperkonuralp"
 
   [params.avatar]
-    assetPath = "images/logo.png"
+    assetPath = "images/logo.webp"
+    fallbackAssetPath = "images/logo.png"
 
   [params.favicons]
     ico = "/favicon/favicon.ico"
