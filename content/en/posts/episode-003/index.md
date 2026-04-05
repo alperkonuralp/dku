@@ -87,10 +87,10 @@ Ask yourself this now: that photo you uploaded to the internet today, or that "i
 ## Audio Summaries
 
 ### Brief Summary
-{{< audio src="https://media.dinazorlarlakafautuleme.com/bolum-003/audio-brief.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-003/audio-brief.m4a" >}}
 
 ### Deep Dive
-{{< audio src="https://media.dinazorlarlakafautuleme.com/bolum-003/audio-deepdive.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-003/audio-deepdive.m4a" >}}
 
 ---
 
