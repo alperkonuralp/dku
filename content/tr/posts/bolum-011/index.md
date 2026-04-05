@@ -101,4 +101,6 @@ Yapay zeka ekranlarımızı ve zihinlerimizi değiştirirken, asıl büyük devr
 
 ## Kaynaklar
 
-Bu bölümün içeriğini [NotebookLM](https://notebooklm.google.com/notebook/cd440e00-ca4b-4961-a0c7-d7ce76582fb4) üzerinden de inceleyebilirsiniz.
+- [NASA Apollo 11 Belgeseli](https://archive.org/details/nasa_tv-Apollo_11_-_Landing_on_the_Moon) — Ay'a ilk inişin orijinal görüntüleri
+- [NASA Challenger Faciası Görüntüleri](https://archive.org/details/ChallengerDisaster) — 1986 Challenger faciasının arşiv kayıtları
+- Bu bölümün içeriğini [NotebookLM](https://notebooklm.google.com/notebook/cd440e00-ca4b-4961-a0c7-d7ce76582fb4) üzerinden de inceleyebilirsiniz.

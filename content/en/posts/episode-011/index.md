@@ -99,4 +99,6 @@ While AI is changing our screens and minds, the real revolution might be happeni
 
 ## Resources
 
-You can also explore this episode's content on [NotebookLM](https://notebooklm.google.com/notebook/cd440e00-ca4b-4961-a0c7-d7ce76582fb4).
+- [NASA Apollo 11 Documentary](https://archive.org/details/nasa_tv-Apollo_11_-_Landing_on_the_Moon) — Original footage of the first Moon landing
+- [NASA Challenger Disaster Footage](https://archive.org/details/ChallengerDisaster) — Archive footage of the 1986 Challenger disaster
+- You can also explore this episode's content on [NotebookLM](https://notebooklm.google.com/notebook/cd440e00-ca4b-4961-a0c7-d7ce76582fb4).
