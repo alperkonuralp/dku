@@ -6,7 +6,7 @@ youtube_url = "https://youtu.be/rSDQyJFBtIo"
 youtube_id = "rSDQyJFBtIo"
 duration = "35:56"
 tags = ["artificial intelligence", "ai", "code quality", "code review", "prompt injection", "claude code", "claude mythos", "anthropic", "llm", "sonarqube", "custom agent", "context engineering", "software architecture", "human in the loop", "turkish podcast"]
-notebooklm_url = "https://notebooklm.google.com/notebook/eb46fadd-25dc-41f7-9d79-56998493d81c"
+notebooklm_url = "https://notebooklm.google.com/notebook/b4027eb7-148d-4b1d-ae56-064ac7d5190c"
 draft = false
 +++
 
@@ -102,7 +102,7 @@ So — when you come across a programming language written by AI that you can no
 
 ## Resources
 
-- **NotebookLM Notebook:** [Episode 14 - NotebookLM](https://notebooklm.google.com/notebook/eb46fadd-25dc-41f7-9d79-56998493d81c)
+- **NotebookLM Notebook:** [Episode 14 - NotebookLM](https://notebooklm.google.com/notebook/b4027eb7-148d-4b1d-ae56-064ac7d5190c)
 - **Anthropic Mythos & Project Glasswing:** Anthropic's announcement of its most powerful, limited-access model
 - **OWASP - Prompt Injection:** OWASP guidance on LLM security vulnerabilities
 

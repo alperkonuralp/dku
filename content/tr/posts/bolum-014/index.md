@@ -6,7 +6,7 @@ youtube_url = "https://youtu.be/rSDQyJFBtIo"
 youtube_id = "rSDQyJFBtIo"
 duration = "35:56"
 tags = ["yapay zeka", "yz", "ai", "kod kalitesi", "code quality", "code review", "prompt injection", "claude code", "claude mythos", "anthropic", "llm", "sonarqube", "custom agent", "context engineering", "türkçe podcast"]
-notebooklm_url = "https://notebooklm.google.com/notebook/eb46fadd-25dc-41f7-9d79-56998493d81c"
+notebooklm_url = "https://notebooklm.google.com/notebook/b4027eb7-148d-4b1d-ae56-064ac7d5190c"
 draft = false
 +++
 
@@ -102,6 +102,6 @@ Peki, yapay zekanın yazdığı ve sizin artık anlamadığınız bir programlam
 
 ## Kaynaklar
 
-- **NotebookLM Notebook:** [Bölüm 14 - NotebookLM](https://notebooklm.google.com/notebook/eb46fadd-25dc-41f7-9d79-56998493d81c)
+- **NotebookLM Notebook:** [Bölüm 14 - NotebookLM](https://notebooklm.google.com/notebook/b4027eb7-148d-4b1d-ae56-064ac7d5190c)
 - **Anthropic Mythos & Project Glasswing:** Anthropic'in en güçlü ve sınırlı erişimli modeli üzerine duyuru
 - **OWASP - Prompt Injection:** LLM güvenlik açıkları için OWASP rehberi
