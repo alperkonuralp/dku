@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(hugo --minify)"
+      "Bash(hugo --minify)",
+      "Bash(git push *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
