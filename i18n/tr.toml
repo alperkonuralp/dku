@@ -85,3 +85,8 @@ buyMeACoffeeDescription = "Bizi destekle!"
 404Title = "Bu Sayfa Mevcut Değil"
 404DefaultMessage = "Aradığınız sayfa bulunamadı."
 404ReturnHome = "Ana sayfaya dön"
+
+# Ana sayfa iki sütun
+latestEpisodes = "Son Bölümler"
+recentBlogPosts = "Son Yazılar"
+viewAll = "Tümünü gör"
