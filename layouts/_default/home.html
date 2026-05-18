@@ -68,15 +68,32 @@
   </section>
 
   <div class="home-container">
-    <!-- Posts List -->
-    <section class="posts-section">
-      <h2 class="posts-title">{{ i18n "recentPosts" }}</h2>
+    <div class="home-columns">
+      <!-- Episodes column -->
+      <section class="home-column home-column--episodes">
+        <div class="column-header">
+          <h2 class="column-title">{{ i18n "latestEpisodes" }}</h2>
+          <a href="{{ "/posts" | relLangURL }}" class="column-view-all">{{ i18n "viewAll" }} →</a>
+        </div>
+        <div class="posts-list">
+          {{ range where site.RegularPages "Type" "posts" | first 5 }}
+            {{ partial "post-card.html" (dict "page" . "limit" 3) }}
+          {{ end }}
+        </div>
+      </section>
 
-      <div class="posts-list">
-        {{ range where site.RegularPages "Type" "posts" | first 10 }}
-          {{ partial "post-card.html" (dict "page" . "limit" 3) }}
-        {{ end }}
-      </div>
-    </section>
+      <!-- Blog column -->
+      <section class="home-column home-column--blog">
+        <div class="column-header">
+          <h2 class="column-title">{{ i18n "recentBlogPosts" }}</h2>
+          <a href="{{ "/blog" | relLangURL }}" class="column-view-all">{{ i18n "viewAll" }} →</a>
+        </div>
+        <div class="posts-list">
+          {{ range where site.RegularPages "Type" "blog" | first 5 }}
+            {{ partial "post-card.html" (dict "page" . "limit" 3) }}
+          {{ end }}
+        </div>
+      </section>
+    </div>
   </div>
 {{ end }}
