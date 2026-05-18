@@ -110,7 +110,7 @@ defaultContentLanguage = "tr"
   title = "Dinozorlarla Kafa Ütüleme"
 
   [languages.en.params]
-    description = "Tech conversations between two experienced developers from the 90s software world"
+    description = "Tech conversations between two experienced developers from the 90s software world. 'Dinozorlarla Kafa Ütüleme' — Ear-Bending with Dinosaurs — a playful Turkish expression for two old-schoolers riffing on tech at length."
     author = "Alper Konuralp & Burak Selim Şenyurt"
     heroTitleLine1 = "Dinozorlarla"
     heroTitleLine2 = "Kafa Ütüleme"

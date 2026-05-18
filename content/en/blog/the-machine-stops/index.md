@@ -11,7 +11,7 @@ draft = false
 
 *Written by: Alper Konuralp*
 
-In Episode 15 of our *Dinozorlarla Kafa Ütüleme* (Mind-Melting with Dinosaurs) series, under the title "Are We Still Trainable? Did We Lose Our Manual?", we discussed three things:
+In Episode 15 of our *Dinozorlarla Kafa Ütüleme* (Ear-Bending with Dinosaurs) series, under the title "Are We Still Trainable? Did We Lose Our Manual?", we discussed three things:
 
 1. Where learning is going in the age of fast-food knowledge,
 2. How abstractions erase fundamental knowledge,
