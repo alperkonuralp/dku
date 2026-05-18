@@ -108,3 +108,4 @@ AI and the new generation of tools are inevitable; but the new manual for educat
 - [NotebookLM - Episode 015 Notes](https://notebooklm.google.com/notebook/408551a0-0e72-4b16-b431-adb274e7c432)
 - [The Machine Stops - E. M. Forster (Wikipedia)](https://en.wikipedia.org/wiki/The_Machine_Stops)
 - [The Machine Stops - Full Text (PDF)](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)
+- [Blog: The Machine Stops — What Forster's 1909 Story Tells Us Today](https://dinozorlarlakafautuleme.com/en/blog/the-machine-stops/)
