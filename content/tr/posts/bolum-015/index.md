@@ -5,7 +5,7 @@ description = "Burak Selim Şenyurt ile birlikte 'Eğitilebiliyor muyuz?' sorusu
 youtube_url = "https://youtu.be/nVFJLx6qIa8"
 youtube_id = "nVFJLx6qIa8"
 duration = "38:24"
-tags = ["eğitim", "yapay zeka", "AI", "öğrenme", "learning", "soyutlama", "abstraction", "kuantum hesaplama", "the machine stops", "e.m. forster", "hap bilgi", "attention span", "junior developer", "mentorluk", "bilgi aktarımı", "knowledge transfer", "bilişim sektörü", "beyin göçü"]
+tags = ["eğitim", "yapay zeka", "öğrenme", "soyutlama", "kuantum hesaplama", "the machine stops", "e.m. forster", "hap bilgi", "dikkat süresi", "junior developer", "mentorluk", "bilgi aktarımı", "bilişim sektörü", "beyin göçü"]
 notebooklm_url = "https://notebooklm.google.com/notebook/408551a0-0e72-4b16-b431-adb274e7c432"
 draft = false
 +++
@@ -20,13 +20,13 @@ Eğitim verirken yıllardır gördüğümüz tablo değişiyor: öğrenme isteğ
 
 ## Konular
 
-- Burak'ın üniversite ve sektör-kampüs projeleri kapsamında verdiği derslerden gözlemler
+- Burak'ın üniversite ve "Sektör Kampüste" projesi kapsamında verdiği derslerden gözlemler
 - "Benim zamanımda böyleydi" söylemine düşmeden yeni nesli anlamaya çalışmak
 - 45 dakika odaklanma beklemenin bugünün öğrencisi için anlamsızlaşması
 - Kameralar kapalı sınıflar, kara ekrana ders anlatmanın yıpratıcılığı
 - Pandemi sarsıntısının uzaktan eğitim üzerindeki kalıcı etkisi
 - Soyutlamaların altındaki temel bilginin erozyonu: kuantum hesaplama örneği
-- Kare kökler, üsler, kompleks sayılar, matrisler — gate dizebilmek ama algoritma tasarlayamamak
+- Kare kökler, kompleks sayılar, matrisler, vektör matematiği — gate dizebilmek ama algoritma tasarlayamamak
 - TikTok ve YouTube Shorts kültürünün yarattığı "swipe refleksi"
 - Hap bilgi çağında derin düşünme yetisinin atrofi tehlikesi
 - Sektörün yükselen parametreleri: Dependency Injection, Clean Architecture, Docker
@@ -95,11 +95,11 @@ Yapay zeka ve yeni nesil araçlar kaçınılmaz; ancak eğitimin yeni kılavuzu,
 
 ## Sesli Özetler
 
-### Kısa Özet
+### Sesli Kısa Özet
 
 {{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-015/audio-brief.tr.m4a" >}}
 
-### Detaylı İnceleme
+### Sesli Detaylı İnceleme
 
 {{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-015/audio-deepdive.tr.m4a" >}}
 

@@ -5,7 +5,7 @@ description = "Together with Burak Selim Şenyurt we tackled the question 'Can w
 youtube_url = "https://youtu.be/nVFJLx6qIa8"
 youtube_id = "nVFJLx6qIa8"
 duration = "38:24"
-tags = ["education", "artificial intelligence", "AI", "learning", "abstraction", "quantum computing", "the machine stops", "e.m. forster", "bite-sized knowledge", "attention span", "junior developer", "mentoring", "knowledge transfer", "software industry", "brain drain"]
+tags = ["education", "AI", "learning", "abstraction", "quantum computing", "the machine stops", "e.m. forster", "bite-sized knowledge", "attention span", "junior developer", "mentoring", "knowledge transfer", "software industry", "brain drain"]
 notebooklm_url = "https://notebooklm.google.com/notebook/408551a0-0e72-4b16-b431-adb274e7c432"
 draft = false
 +++
@@ -20,13 +20,13 @@ After years of teaching, the picture we see is shifting: the appetite for learni
 
 ## Topics
 
-- Observations from Burak's lectures in university and industry-campus collaboration programs
+- Observations from Burak's lectures in university and the "Sektör Kampüste" (industry-on-campus collaboration) program
 - Trying to understand the new generation without falling into the "back in my day" trap
 - The 45-minute attention span no longer making sense to today's student
 - Cameras-off classrooms and the exhausting reality of teaching to a black screen
 - The lingering aftershock of the pandemic on remote learning
 - Erosion of foundational knowledge underneath abstractions: the quantum computing example
-- Square roots, exponents, complex numbers, matrices — being able to stack gates but unable to design algorithms
+- Square roots, complex numbers, matrices, vector math — being able to stack gates but unable to design algorithms
 - The "swipe reflex" created by TikTok and YouTube Shorts culture
 - The atrophy risk for deep thinking in the age of bite-sized knowledge
 - The industry's rising baseline: Dependency Injection, Clean Architecture, Docker
@@ -49,7 +49,7 @@ This isn't a simple generational conflict — it's a deep cognitive estrangement
 
 ### 2. The Vanishing Appetite for Learning and Passive Classrooms
 
-The desire to learn has been humanity's most fundamental drive; but a striking diagnosis is possible today — that appetite is steadily shrinking. Burak's first-hand experience in projects like "Industry on Campus" reveals classrooms now echoing with the silence of passive participants. The black boxes hiding behind closed cameras make up half the room.
+The desire to learn has been humanity's most fundamental drive; but a striking diagnosis is possible today — that appetite is steadily shrinking. Burak's first-hand experience in projects like "Sektör Kampüste" reveals classrooms now echoing with the silence of passive participants. The black boxes hiding behind closed cameras make up half the room.
 
 This isn't pedagogical failure — it's a mental fatigue caused by speed. The pace at which topics flow now leaves the question "Which of these matters for my future?" unanswered. The creative energy inside students dissipates in the noise of too many tools. The pandemic's aftershock hasn't fully passed either — bodies adapted to remote learning still create a strange isolation for instructors speaking to the camera.
 
@@ -95,11 +95,11 @@ AI and the new generation of tools are inevitable; but the new manual for educat
 
 ## Audio Summaries
 
-### Brief
+### Audio Brief
 
 {{< audio src="https://media.dinozorlarlakafautuleme.com/episode-015/audio-brief.en.m4a" >}}
 
-### Deep Dive
+### Audio Deep Dive
 
 {{< audio src="https://media.dinozorlarlakafautuleme.com/episode-015/audio-deepdive.en.m4a" >}}
 
