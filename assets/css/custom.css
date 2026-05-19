@@ -57,3 +57,213 @@
     gap: var(--spacing-2xl);
   }
 }
+
+/* ============================================================
+   Guide: multi-page book layout
+   ============================================================ */
+
+/* Landing page */
+
+.guide-landing-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.guide-landing-header {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.guide-landing-description {
+  color: var(--text-secondary);
+  font-size: 1.125rem;
+  margin-top: var(--spacing-sm);
+  line-height: 1.6;
+}
+
+.guide-chapter-list {
+  margin-top: var(--spacing-2xl);
+  padding-top: var(--spacing-xl);
+  border-top: 1px solid var(--border-color);
+}
+
+.guide-chapter-list h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: var(--spacing-lg);
+  color: var(--text-primary);
+}
+
+.guide-chapter-list ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.guide-chapter-list li a {
+  font-weight: 600;
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.guide-chapter-list li a:hover {
+  color: var(--accent-primary);
+}
+
+.chapter-desc {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.2rem;
+  line-height: 1.5;
+}
+
+/* Guide sidebar */
+
+.guide-sidebar-heading {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin: 0 0 var(--spacing-sm) 0;
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.guide-toc-block {
+  margin-bottom: var(--spacing-xl);
+}
+
+.guide-toc-content nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* ALL CHAPTERS accordion */
+
+.guide-chapters-summary {
+  cursor: pointer;
+  list-style: none;
+  padding: var(--spacing-xs) 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin: 0 0 var(--spacing-sm) 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.guide-chapters-summary::-webkit-details-marker,
+.guide-chapters-summary::marker {
+  display: none;
+}
+
+/* Desktop: always show chapters list, hide toggle affordance */
+@media (min-width: 1025px) {
+  .guide-chapters-details > nav {
+    display: block !important;
+  }
+  .guide-chapters-summary {
+    cursor: default;
+    pointer-events: none;
+  }
+}
+
+.guide-chapters-list {
+  list-style: none;
+  padding: 0;
+  margin: var(--spacing-sm) 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+}
+
+.guide-chapter-link {
+  font-size: 0.8125rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  display: block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.25rem;
+  line-height: 1.4;
+  transition: color var(--transition-fast), background-color var(--transition-fast);
+}
+
+.guide-chapter-link:hover {
+  color: var(--text-primary);
+  background-color: var(--bg-secondary);
+}
+
+.guide-chapter-link.active {
+  color: var(--accent-primary);
+  font-weight: 600;
+  background-color: var(--accent-light-purple-rgba-01);
+}
+
+/* Prev/Next navigation */
+
+.guide-prev-next {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-2xl);
+  padding-top: var(--spacing-xl);
+  border-top: 1px solid var(--border-color);
+}
+
+.guide-nav-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  text-decoration: none;
+  padding: var(--spacing-md);
+  border-radius: 0.5rem;
+  border: 1px solid var(--border-color);
+  transition: border-color var(--transition-base), box-shadow var(--transition-base);
+  max-width: 45%;
+}
+
+.guide-nav-link:hover {
+  border-color: var(--accent-primary);
+  box-shadow: var(--shadow-md);
+}
+
+.guide-nav-next {
+  margin-left: auto;
+  text-align: right;
+}
+
+.guide-nav-label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.guide-nav-title {
+  font-size: 0.9375rem;
+  color: var(--text-primary);
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+@media (max-width: 640px) {
+  .guide-prev-next {
+    flex-direction: column;
+  }
+  .guide-nav-link {
+    max-width: 100%;
+  }
+  .guide-nav-next {
+    margin-left: 0;
+    text-align: left;
+  }
+}

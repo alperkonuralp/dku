@@ -90,3 +90,10 @@ buyMeACoffeeDescription = "Bizi destekle!"
 latestEpisodes = "Son Bölümler"
 recentBlogPosts = "Son Yazılar"
 viewAll = "Tümünü gör"
+
+# Rehber / çok bölümlü navigasyon
+thisChapter = "Bu Bölümde"
+allChapters = "Tüm Bölümler"
+guidePrev = "Önceki"
+guideNext = "Sonraki"
+chapterNavigation = "Bölüm navigasyonu"

@@ -2,3 +2,10 @@
 latestEpisodes = "Latest Episodes"
 recentBlogPosts = "Recent Blog Posts"
 viewAll = "View all"
+
+# Guide / multi-chapter navigation
+thisChapter = "In This Chapter"
+allChapters = "All Chapters"
+guidePrev = "Previous"
+guideNext = "Next"
+chapterNavigation = "Chapter navigation"

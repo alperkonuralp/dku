@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="guide-landing-wrapper">
+  <header class="guide-landing-header">
+    <h1 class="post-title-main">{{ .Title }}</h1>
+    {{ if .Description }}
+      <p class="guide-landing-description">{{ .Description }}</p>
+    {{ end }}
+  </header>
+
+  <div class="post-content-main">
+    {{ .Content }}
+  </div>
+
+  <nav class="guide-chapter-list" aria-label="{{ i18n "allChapters" }}">
+    <h2>{{ i18n "allChapters" }}</h2>
+    <ol>
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ if .Description }}
+            <span class="chapter-desc">{{ .Description }}</span>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ol>
+  </nav>
+</div>
+{{ end }}

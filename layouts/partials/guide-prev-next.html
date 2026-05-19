@@ -1,0 +1,18 @@
+{{ if or .PrevInSection .NextInSection }}
+<nav class="guide-prev-next" aria-label="{{ i18n "chapterNavigation" }}">
+  {{ with .PrevInSection }}
+  <a href="{{ .RelPermalink }}" class="guide-nav-link guide-nav-prev"
+     aria-label="{{ i18n "guidePrev" }}: {{ .Title }}">
+    <span class="guide-nav-label" aria-hidden="true">← {{ i18n "guidePrev" }}</span>
+    <span class="guide-nav-title">{{ .Title }}</span>
+  </a>
+  {{ end }}
+  {{ with .NextInSection }}
+  <a href="{{ .RelPermalink }}" class="guide-nav-link guide-nav-next"
+     aria-label="{{ i18n "guideNext" }}: {{ .Title }}">
+    <span class="guide-nav-label" aria-hidden="true">{{ i18n "guideNext" }} →</span>
+    <span class="guide-nav-title">{{ .Title }}</span>
+  </a>
+  {{ end }}
+</nav>
+{{ end }}

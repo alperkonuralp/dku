@@ -1,0 +1,31 @@
+{{ $currentPage := . }}
+<aside class="post-toc guide-sidebar" aria-label="{{ i18n "allChapters" }}">
+
+  {{/* THIS CHAPTER: in-page heading ToC */}}
+  {{ if .TableOfContents }}
+  <div class="guide-toc-block">
+    <h3 class="guide-sidebar-heading">{{ i18n "thisChapter" }}</h3>
+    <div class="guide-toc-content">
+      {{ .TableOfContents }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{/* ALL CHAPTERS: sibling chapter list */}}
+  <details class="guide-chapters-details">
+    <summary class="guide-chapters-summary">{{ i18n "allChapters" }}</summary>
+    <nav>
+      <ol class="guide-chapters-list">
+        {{ range .Parent.Pages }}
+        <li class="guide-chapter-item">
+          <a href="{{ .RelPermalink }}"
+             class="guide-chapter-link{{ if eq . $currentPage }} active{{ end }}">
+            {{ .Title }}
+          </a>
+        </li>
+        {{ end }}
+      </ol>
+    </nav>
+  </details>
+
+</aside>
