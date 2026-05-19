@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 12. Kuantum Bilgisayar Donanımları
 
 Kuantum bilgisayarları anlamaya çalışırken çoğu zaman algoritmalara, qubit kavramına, süperpozisyona veya dolaşıklığa odaklanırız. Bu kavramlar gerçekten merkezîdir; fakat kuantum bilgisayarların bugün hâlâ neden yaygın, güvenilir ve üretim ortamlarında kullanılan makineler hâline gelmediğini anlamak için donanım tarafına da bakmak gerekir.

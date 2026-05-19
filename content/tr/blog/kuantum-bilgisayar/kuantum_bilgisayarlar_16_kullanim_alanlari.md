@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 16. Kullanım Alanları
 
 Kuantum bilgisayarlar çoğu zaman “her şeyi hızlandıracak yeni nesil bilgisayarlar” gibi anlatılır. Bu anlatım hem çekici hem de tehlikelidir; çünkü kuantum bilgisayarların gerçek potansiyeli, her iş yükünü hızlandırmasından değil, bazı özel problem sınıflarında klasik bilgisayarlardan farklı bir hesaplama yolu sunmasından gelir.

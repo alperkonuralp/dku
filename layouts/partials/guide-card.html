@@ -1,0 +1,12 @@
+{{ $page := .page }}
+<article class="post-card guide-card" data-post-url="{{ $page.RelPermalink }}">
+  <div class="post-content">
+    <h3 class="post-title">
+      <a href="{{ $page.RelPermalink }}" onclick="event.stopPropagation();">{{ $page.Title }}</a>
+    </h3>
+    {{ if $page.Description }}
+      <p class="post-description">{{ $page.Description }}</p>
+    {{ end }}
+    {{ partial "post-meta-inline.html" $page }}
+  </div>
+</article>

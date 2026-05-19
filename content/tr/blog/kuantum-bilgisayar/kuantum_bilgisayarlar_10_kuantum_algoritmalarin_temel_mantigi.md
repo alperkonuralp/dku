@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 10. Kuantum Algoritmaların Temel Mantığı
 
 Önceki bölümlerde qubit, süperpozisyon, ölçüm, dolaşıklık, girişim, kuantum kapıları ve kuantum devreleri gibi temel kavramları inceledik. Bu bölümde artık bu kavramların bir araya gelerek nasıl “algoritma” oluşturduğunu ele alacağız.

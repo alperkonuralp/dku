@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 13. Gürültü, Decoherence ve Hata Problemi
 
 Kuantum bilgisayarları anlamaya çalışırken çoğu zaman süperpozisyon, dolaşıklık, kuantum kapıları ve algoritmalar öne çıkar. Fakat kuantum bilgisayarların bugün neden hâlâ sınırlı olduğunu anlamak için asıl kritik konu **gürültü, decoherence ve hata problemidir**.

@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 21. İş Dünyası ve Stratejik Perspektif
 
 Kuantum bilgisayarlar yalnızca fizik, matematik veya bilgisayar bilimi alanlarının konusu değildir. Konu artık iş dünyasının, siber güvenlik ekiplerinin, teknoloji stratejisi ekiplerinin, Ar-Ge birimlerinin ve üst yönetimin de gündemine girmiştir. Bunun temel nedeni, kuantum bilgisayarların bugün her problemi çözen olgun makineler hâline gelmiş olması değildir. Asıl neden, kuantum teknolojilerinin etkisinin uzun hazırlık süresi gerektirmesi, bazı sektörlerde ciddi rekabet avantajı potansiyeli taşıması ve özellikle kriptografi tarafında bugünden planlama yapılmasını gerektirmesidir.

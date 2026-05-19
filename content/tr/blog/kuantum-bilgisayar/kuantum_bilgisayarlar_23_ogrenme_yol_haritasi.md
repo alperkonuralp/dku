@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 23. Öğrenme Yol Haritası
 
 Bu bölüm, kuantum bilgisayarları öğrenmek isteyen farklı profiller için ayrı öğrenme rotaları sunar. Çünkü kuantum bilgisayar konusu tek bir öğrenme çizgisine indirgenemez. Teknik olmayan bir kişinin ihtiyaç duyduğu kavramsal çerçeve ile yazılımcının, yazılım mimarının, siber güvenlik uzmanının veya yöneticinin ihtiyaç duyduğu bilgi seviyesi aynı değildir.

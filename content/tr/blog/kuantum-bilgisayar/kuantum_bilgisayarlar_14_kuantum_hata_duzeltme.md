@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 14. Kuantum Hata Düzeltme
 
 Kuantum bilgisayarların ölçeklenebilmesi için yalnızca daha fazla qubit üretmek yeterli değildir. Asıl mesele, bu qubitlerin üzerinde yeterince uzun, yeterince karmaşık ve yeterince güvenilir hesaplamalar yapabilmektir. Bugünkü kuantum donanımlarında qubitler çevresel gürültüye, kontrol sinyallerindeki kusurlara, ölçüm hatalarına, crosstalk etkilerine ve decoherence süreçlerine karşı son derece hassastır. Bu nedenle uzun bir kuantum algoritmasını hatasız çalıştırmak, yalnızca donanım kalitesiyle çözülebilecek kadar basit bir problem değildir.

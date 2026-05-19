@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 17. Kriptografi ve Post-Quantum Cryptography
 
 Kuantum bilgisayarların iş dünyası, kamu kurumları ve yazılım mimarisi üzerindeki en somut etkilerinden biri kriptografi alanında ortaya çıkar. Çünkü bugünkü dijital dünyanın önemli bir bölümü; kimlik doğrulama, güvenli iletişim, dijital imza, sertifika altyapısı, VPN bağlantıları, yazılım güncellemeleri, finansal işlemler ve kurumlar arası veri alışverişi gibi kritik süreçlerde açık anahtarlı kriptografiye dayanır.

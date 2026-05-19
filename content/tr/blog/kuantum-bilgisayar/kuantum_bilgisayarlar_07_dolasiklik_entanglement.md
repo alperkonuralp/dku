@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 7. Dolaşıklık: Entanglement
 
 Kuantum bilgisayarları klasik bilgisayarlardan ayıran en önemli kavramlardan biri **dolaşıklık**tır. Süperpozisyon tek bir qubitin ölçümden önce birden fazla olası sonuca ait genliklerle temsil edilebilmesini anlatırken, dolaşıklık birden fazla qubitin artık birbirinden bağımsız düşünülemeyecek şekilde ortak bir kuantum durumuna sahip olmasını anlatır.

@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 22. Türkiye ve Bölgesel Perspektif
 
 Kuantum teknolojileri, yalnızca büyük teknoloji şirketlerinin veya fizik laboratuvarlarının ilgilendiği uzak bir araştırma konusu değildir. Özellikle kuantum hesaplama, kuantum haberleşme, kuantum algılama ve post-quantum cryptography başlıkları; finans, savunma, telekom, otomotiv, lojistik, kamu hizmetleri ve kritik altyapılar açısından giderek daha stratejik hale gelmektedir.

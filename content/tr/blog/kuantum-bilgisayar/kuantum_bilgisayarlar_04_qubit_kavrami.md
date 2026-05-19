@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 4. Qubit Kavramı
 
 > Bu bölümün amacı, kuantum bilgisayarların temel bilgi birimi olan **qubit** kavramını hem sezgisel hem de teknik açıdan açıklamaktır. Burada hedef, okuyucunun qubit’i “aynı anda hem 0 hem 1 olan sihirli bit” gibi eksik bir cümleyle değil; ölçüm, olasılık genliği, kuantum durum vektörü, Bloch küresi, fiziksel qubit ve mantıksal qubit gibi temel kavramlarla birlikte anlamasıdır.

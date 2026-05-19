@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 8. Girişim: Interference
 
 Kuantum bilgisayarları anlamaya çalışırken çoğu zaman ilk dikkat çeken kavramlar **qubit**, **süperpozisyon** ve **dolaşıklık** olur. Ancak kuantum algoritmaların gerçek gücünü anlamak için en kritik kavramlardan biri **girişim**dir. İngilizcede bu kavram genellikle **interference** olarak geçer.

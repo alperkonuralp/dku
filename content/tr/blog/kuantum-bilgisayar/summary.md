@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 Açık konuşayım: “dünyadaki tek en iyi içerik budur” diyebileceğim kusursuz bir kaynak bulamadım. En sağlam kombinasyon şu görünüyor: **NIST’in sade açıklamaları**, **IBM Quantum Learning / Qiskit tarafındaki eğitim içerikleri** ve **Microsoft Azure Quantum dokümantasyonu**. Aşağıdaki dokümanı bu kaynakları doğrulayarak, yalın ama deep-dive olacak şekilde hazırladım. Güncel durum için özellikle Google Willow, IBM fault-tolerant roadmap, Microsoft Majorana 1 iddiası ve NIST PQC standartlarını da kontrol ettim. ([NIST][1])
 
 ---

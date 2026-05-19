@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 18. Kuantum Programlama
 
 Kuantum bilgisayarları anlamanın bir tarafı fizik, matematik ve donanım ise, diğer tarafı da bu sistemlere nasıl problem tarif edeceğimizi bilmektir. Bu bölümde kuantum programlamayı, klasik yazılım geliştirme alışkanlıklarıyla karıştırmadan ele alacağız. Amaç, bir yazılımcının şu sorulara net cevap verebilmesidir:

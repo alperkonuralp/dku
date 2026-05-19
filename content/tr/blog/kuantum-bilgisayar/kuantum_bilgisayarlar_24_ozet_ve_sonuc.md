@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 24. Özet ve Sonuç
 
 Bu dokümanın önceki bölümlerinde kuantum bilgisayarları; fiziksel temellerinden qubit kavramına, süperpozisyondan dolaşıklığa, kuantum kapılarından algoritmalara, donanım yaklaşımlarından hata düzeltmeye, kriptografiden kurumsal stratejiye kadar geniş bir çerçevede ele aldık. Bu son bölümün amacı, bütün bu anlatıyı tek bir yerde toparlamak ve okuyucunun zihninde net bir sonuç bırakmaktır.

@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 5. Süperpozisyon
 
 Süperpozisyon, kuantum bilgisayarları klasik bilgisayarlardan ayıran en temel kavramlardan biridir. Ancak aynı zamanda en fazla yanlış anlatılan kavramlardan da biridir. Popüler anlatımlarda sıkça kullanılan “qubit aynı anda hem 0 hem 1’dir” cümlesi, süperpozisyonun sezgisel bir ipucunu verse de kavramı tam olarak açıklamaz. Hatta bu ifade tek başına bırakıldığında, kuantum bilgisayarların nasıl çalıştığına dair yanlış bir zihinsel model oluşturabilir.

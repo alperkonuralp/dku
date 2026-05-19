@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 9. Kuantum Kapıları ve Kuantum Devreleri
 
 Bu bölümde kuantum bilgisayarların hesaplama işlemini nasıl gerçekleştirdiğini ele alacağız. Önceki bölümlerde qubit, süperpozisyon, ölçüm, dolaşıklık ve girişim kavramlarını ayrı ayrı inceledik. Şimdi bu kavramların bir kuantum programı içinde nasıl kullanıldığını göreceğiz.

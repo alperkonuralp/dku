@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # Kuantum Bilgisayarlar: Yalın, Derinlemesine ve Güncel Bir Rehber
 
 ## 1. Giriş

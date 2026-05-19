@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 25. Ekler
 
 Bu bölüm, dokümanın önceki bölümlerinde kullanılan kavramları hızlıca hatırlamak, temel matematiksel notasyonu görmek, kuantum kapıları ve algoritmaları karşılaştırmak, donanım yaklaşımlarını yan yana değerlendirmek ve Post-Quantum Cryptography tarafındaki temel standartları özetlemek için hazırlanmıştır.

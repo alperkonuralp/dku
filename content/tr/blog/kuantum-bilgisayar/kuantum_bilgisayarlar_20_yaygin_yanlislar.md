@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 20. Kuantum Bilgisayarlar Hakkında Yaygın Yanlışlar
 
 Kuantum bilgisayarlar hakkında konuşurken en büyük sorunlardan biri, teknik zorluğun kendisinden çok, kavramların kamuoyuna çoğu zaman fazla basitleştirilerek aktarılmasıdır. “Aynı anda her şeyi hesaplar”, “klasik bilgisayarları bitirecek”, “bugün tüm şifreleme sistemleri kırıldı”, “daha çok qubit varsa daha iyi bilgisayardır” gibi ifadeler kulağa etkileyici gelir; fakat çoğu eksik, bağlamından koparılmış veya doğrudan yanlıştır.

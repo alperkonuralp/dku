@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 3. Kuantum Mekaniğine Yalın Giriş
 
 > Bu bölümün amacı, kuantum bilgisayarları anlayabilmek için gerekli olan kuantum mekaniği kavramlarını mümkün olduğunca sade, ama yanlış anlaşılmaya yer bırakmayacak şekilde açıklamaktır. Burada amaç fizik lisans dersi vermek değildir; amaç, ilerleyen bölümlerde qubit, süperpozisyon, ölçüm, dolaşıklık ve kuantum algoritmaları konuşurken sağlam bir zihinsel temel oluşturmaktır.

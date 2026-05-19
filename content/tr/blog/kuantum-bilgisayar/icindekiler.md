@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 ```markdown
 # Kuantum Bilgisayarlar: Yalın, Derinlemesine ve Güncel Bir Rehber
 

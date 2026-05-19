@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 11. Önemli Kuantum Algoritmaları
 
 Bu bölümde kuantum algoritmaların tarihsel ve kavramsal olarak en çok referans verilen örnekleri ele alınır. Amaç, algoritmaları yalnızca isimleriyle tanıtmak değildir. Her algoritma için şu sorulara cevap aranır:

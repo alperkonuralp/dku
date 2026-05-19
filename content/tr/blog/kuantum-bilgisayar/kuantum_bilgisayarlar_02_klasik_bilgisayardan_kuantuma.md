@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 2. Klasik Bilgisayardan Kuantum Bilgisayara
 
 > Bu bölümün amacı, kuantum bilgisayarları doğrudan “gizemli fizik” kavramlarıyla değil, önce bildiğimiz klasik bilgisayar modeliyle karşılaştırarak anlamaktır. Kuantum bilgisayarları doğru konumlandırabilmek için önce klasik bilgisayarların nasıl çalıştığını, nerelerde çok güçlü olduklarını, nerelerde zorlandıklarını ve kuantum hesaplama modelinin bu tabloya nasıl farklı bir yaklaşım getirdiğini görmek gerekir.

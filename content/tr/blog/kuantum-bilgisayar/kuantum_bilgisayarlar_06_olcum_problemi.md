@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 6. Ölçüm Problemi
 
 Kuantum bilgisayarları anlamaya çalışırken en kritik eşiklerden biri **ölçüm** konusudur. Çünkü klasik bilgisayarlarda “okuma” işlemi çoğu zaman masum bir işlemdir: bellekteki bir değeri okuruz, ekrana basarız, loglarız, debug ederiz. Kuantum bilgisayarda ise ölçüm bu kadar basit değildir. Ölçüm, yalnızca sistem hakkında bilgi edinmek değildir; aynı zamanda sistemin durumunu etkileyen, kuantum hesaplamanın akışını değiştirebilen temel bir işlemdir.

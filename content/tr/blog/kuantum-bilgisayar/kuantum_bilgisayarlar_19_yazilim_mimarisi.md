@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 19. Kuantum Bilgisayarlar ve Yazılım Mimarisi
 
 Kuantum bilgisayarları yalnızca fiziksel donanım, qubit sayısı veya laboratuvar başarısı üzerinden anlamak eksik kalır. Kurumsal yazılım mimarisi açısından asıl soru şudur:

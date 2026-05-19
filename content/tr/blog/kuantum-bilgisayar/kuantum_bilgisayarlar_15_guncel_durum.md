@@ -1,3 +1,6 @@
+﻿---
+draft: true
+---
 # 15. Kuantum Bilgisayarların Güncel Durumu
 
 > Bu bölüm, kuantum bilgisayarların 2026 itibarıyla nerede durduğunu anlamak için hazırlanmıştır. Önceki bölümlerde temel kavramları, donanım yaklaşımlarını, hata problemini ve kuantum hata düzeltmeyi ayrı ayrı ele aldık. Bu bölümde ise bunları güncel tabloyla birleştiriyoruz: Hangi oyuncular neyi hedefliyor? Hangi gelişmeler gerçekten önemli? Hangi duyurulara temkinli yaklaşmak gerekir? Hype ile gerçek ilerleme nasıl ayırt edilir?
