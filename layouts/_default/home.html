@@ -89,9 +89,13 @@
           <a href="{{ "/blog" | relLangURL }}" class="column-view-all">{{ i18n "viewAll" }} →</a>
         </div>
         <div class="posts-list">
-          {{ $blogSections := where .Site.Sections "Type" "blog" }}
           {{ $blogPosts := where site.RegularPages "Type" "blog" }}
-          {{ $combined := $blogPosts | append $blogSections | uniq }}
+          {{ $blogSection := site.GetPage "/blog" }}
+          {{ $guidesections := slice }}
+          {{ if $blogSection }}
+            {{ $guidesections = $blogSection.Sections }}
+          {{ end }}
+          {{ $combined := $blogPosts | append $guidesections | uniq }}
           {{ $combined = sort $combined "Date" "desc" }}
           {{ range first 5 $combined }}
             {{ if .IsSection }}
