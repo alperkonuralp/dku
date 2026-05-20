@@ -12,8 +12,8 @@
   {{ end }}
 
   {{/* ALL CHAPTERS: sibling chapter list */}}
-  <details class="guide-chapters-details">
-    <summary class="guide-chapters-summary">{{ i18n "allChapters" }}</summary>
+  <div class="guide-chapters-section">
+    <div class="guide-chapters-summary">{{ i18n "allChapters" }}</div>
     <nav>
       <ol class="guide-chapters-list">
         {{ range .Parent.Pages }}
@@ -26,6 +26,6 @@
         {{ end }}
       </ol>
     </nav>
-  </details>
+  </div>
 
 </aside>
