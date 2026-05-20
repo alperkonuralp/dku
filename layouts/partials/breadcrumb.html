@@ -1,0 +1,56 @@
+{{ if not .IsHome }}
+<nav aria-label="breadcrumb" class="breadcrumb-nav">
+  <ol class="breadcrumb-list" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+    {{/* Ana Sayfa */}}
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="{{ "/" | relLangURL }}" itemprop="item"><span itemprop="name">{{ i18n "home" | default "Ana Sayfa" }}</span></a>
+      <meta itemprop="position" content="1" />
+      <span aria-hidden="true" class="breadcrumb-sep">›</span>
+    </li>
+
+    {{ if .IsSection }}
+      {{/* Section page: Ana Sayfa › Bu Başlık */}}
+      {{ with .Parent }}
+        {{ if not .IsHome }}
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="{{ .RelPermalink }}" itemprop="item"><span itemprop="name">{{ .Title }}</span></a>
+          <meta itemprop="position" content="2" />
+          <span aria-hidden="true" class="breadcrumb-sep">›</span>
+        </li>
+        {{ end }}
+      {{ end }}
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span itemprop="name" class="breadcrumb-current">{{ .Title }}</span>
+        <meta itemprop="position" content="3" />
+      </li>
+
+    {{ else if .IsPage }}
+      {{/* Regular page: walk up ancestors */}}
+      {{ $ancestors := slice }}
+      {{ $p := .Parent }}
+      {{ range seq 5 }}
+        {{ if and $p (not $p.IsHome) }}
+          {{ $ancestors = $ancestors | append $p }}
+          {{ $p = $p.Parent }}
+        {{ end }}
+      {{ end }}
+      {{/* Reverse so root-first */}}
+      {{ $pos := 2 }}
+      {{ range ($ancestors | collections.Reverse) }}
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="{{ .RelPermalink }}" itemprop="item"><span itemprop="name">{{ .Title }}</span></a>
+          <meta itemprop="position" content="{{ $pos }}" />
+          <span aria-hidden="true" class="breadcrumb-sep">›</span>
+        </li>
+        {{ $pos = add $pos 1 }}
+      {{ end }}
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span itemprop="name" class="breadcrumb-current">{{ .Title }}</span>
+        <meta itemprop="position" content="{{ $pos }}" />
+      </li>
+    {{ end }}
+
+  </ol>
+</nav>
+{{ end }}
