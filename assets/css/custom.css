@@ -119,7 +119,21 @@
   line-height: 1.5;
 }
 
-/* Guide sidebar */
+/* Guide sidebar — layout (mirrors .post-toc from single-post.css) */
+
+.guide-sidebar {
+  position: sticky;
+  top: calc(var(--spacing-lg) + 60px);
+  width: 260px;
+  flex-shrink: 0;
+  padding: var(--spacing-md);
+  background-color: var(--bg-deep);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  overflow-y: auto;
+  max-height: calc(100vh - 120px);
+  z-index: 50;
+}
 
 .guide-sidebar-heading {
   font-size: 0.75rem;
@@ -140,6 +154,29 @@
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.guide-toc-content nav ul li {
+  padding: 0.1rem 0;
+}
+
+.guide-toc-content nav ul li a {
+  font-size: 0.8125rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  display: block;
+  padding: 0.15rem 0.4rem;
+  border-radius: 0.25rem;
+  line-height: 1.4;
+  transition: color var(--transition-fast);
+}
+
+.guide-toc-content nav ul li a:hover {
+  color: var(--accent-primary);
+}
+
+.guide-toc-content nav ul ul {
+  padding-left: 0.75rem;
 }
 
 /* ALL CHAPTERS accordion */
