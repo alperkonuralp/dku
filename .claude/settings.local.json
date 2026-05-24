@@ -4,7 +4,15 @@
       "Bash(hugo --minify)",
       "Bash(git push *)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(git commit *)",
+      "Skill(superpowers:writing-plans)",
+      "Skill(superpowers:subagent-driven-development)",
+      "Bash(cd C:\\\\Projects\\\\DKU\\\\dku *)",
+      "Bash(hugo config *)",
+      "Skill(superpowers:brainstorming)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Projects\\\\DKU\\\\dku\" -Directory)",
+      "Bash(Select-Object Name)"
     ]
   }
 }
