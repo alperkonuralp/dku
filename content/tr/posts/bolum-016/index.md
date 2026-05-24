@@ -112,11 +112,11 @@ Kuantum bilgisayarlar Word belgesi yazmak ya da internette gezinmek için tasarl
 
 ### Kısa Özet
 
-{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-016/audio-brief.tr.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-016/audio-brief.m4a" >}}
 
 ### Derinlemesine İnceleme
 
-{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-016/audio-deepdive.tr.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-016/audio-deepdive.m4a" >}}
 
 ## Kaynaklar
 
