@@ -4,7 +4,7 @@ date = "2026-06-14T16:00:00+03:00"
 author = "Alper Konuralp"
 description = "NVIDIA says Physical AI has reached its 'ChatGPT moment.' But the gap between polished demo videos and real factory deployment is still wide. An honest, skeptical look at exactly where we stand in 2026 as intelligence steps off the screen and into the physical world."
 tags = ["physical ai", "embodied ai", "humanoid robots", "robotics", "artificial intelligence", "vla", "world models", "sim-to-real", "figure", "boston dynamics", "tesla optimus", "nvidia", "ai economy", "chatgpt moment"]
-draft = true
+draft = false
 +++
 
 *Written by: Alper Konuralp. A review for experienced software developers and technical decision-makers. Written in light of what's known as of June 2026 — this is a fast-moving field, and the numbers and players named here may date quickly.*
