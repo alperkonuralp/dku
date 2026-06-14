@@ -106,7 +106,7 @@ Quantum computers weren't designed to write Word documents or browse the interne
 
 ## Infographic
 
-{{< infografik src="infograhic.webp" alt="Hit Hard by Quantum - Infographic" >}}
+{{< infografik src="infographic.webp" alt="Hit Hard by Quantum - Infographic" >}}
 
 ## Audio Summaries
 
