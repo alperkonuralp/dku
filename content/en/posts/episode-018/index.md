@@ -110,11 +110,11 @@ We closed with Burak's lovely line: if even AI is learning a programming languag
 
 ### Brief Summary
 
-{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-018/audio-brief.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/episode-018/audio-brief.m4a" >}}
 
 ### Deep Dive
 
-{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-018/audio-deepdive.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/episode-018/audio-deepdive.m4a" >}}
 
 ## Resources
 
