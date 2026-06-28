@@ -68,7 +68,7 @@ We closed with the Matrix metaphor: if we manage this "grid" well, we get to be 
 
 ## Infographic
 
-{{< infografik src="infografik.webp" alt="Where Is the AI Economy Headed? - Infographic" >}}
+{{< infografik src="infographic.webp" alt="Where Is the AI Economy Headed? - Infographic" >}}
 
 ## Audio Summaries
 
