@@ -74,11 +74,11 @@ We closed with the Matrix metaphor: if we manage this "grid" well, we get to be 
 
 ### Brief
 
-{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-019/audio-brief.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/episode-019/audio-brief.m4a" >}}
 
 ### Deep Dive
 
-{{< audio src="https://media.dinozorlarlakafautuleme.com/bolum-019/audio-deepdive.m4a" >}}
+{{< audio src="https://media.dinozorlarlakafautuleme.com/episode-019/audio-deepdive.m4a" >}}
 
 ## Resources
 
